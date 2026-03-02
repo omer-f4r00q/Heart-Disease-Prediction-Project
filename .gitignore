@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+.env
+env/
+
+# Data folder
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS-specific files (examples)
+.DS_Store
+Thumbs.db
