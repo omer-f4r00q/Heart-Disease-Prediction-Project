@@ -3,9 +3,6 @@ venv/
 .env
 env/
 
-# Data folder
-data/
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
