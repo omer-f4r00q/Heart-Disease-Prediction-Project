@@ -42,7 +42,7 @@ To reproduce this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/omer-f4r00q/Heart-Disease-Prediction.git
+   git clone https://github.com/omer-f4r00q/Heart-Disease-Prediction-Project.git
    cd Heart-Disease-Prediction
    ```
 2. **Create a virtual environment:**
